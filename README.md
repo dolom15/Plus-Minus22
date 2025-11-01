@@ -1,1 +1,1 @@
-# Plus-Minus22
+# Plus-Minus22 This code calculates and prints the fractions of positive, negative, and zero elements in an integer array using the `plusMinus` function. It reads the array from input, counts each type of element, and outputs the ratios formatted to six decimal places.
